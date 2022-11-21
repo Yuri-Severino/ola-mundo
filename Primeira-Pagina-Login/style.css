@@ -1,0 +1,42 @@
+body {
+    background-color: #1C1C1C;
+}
+
+h1 {
+    color: white;
+    position: relative;
+    left: 50px;
+}
+
+p {
+    color: white;
+
+}
+
+
+
+.borda {
+
+    border: 1px solid white;
+    display: inline-block;
+}
+
+.centro {
+    text-align: center;
+}
+
+
+.meio {
+
+    position: relative;
+    left: 60px;
+}
+
+
+
+.centro-da-tela {
+
+    position: relative;
+    left: 860px;
+    top: 350px;
+}
